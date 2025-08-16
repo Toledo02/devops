@@ -7,4 +7,4 @@ app.use(express.json());
 const healthRouter = require('./routes/health.routes');
 app.use('/health', healthRouter);
 
-module.express = app;
+module.exports = app;
