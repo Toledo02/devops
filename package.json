@@ -1,0 +1,29 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "main": "teste.js",
+  "scripts": {
+    "start": "...",
+    "dev": "...",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toledo02/devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toledo02/devops/issues"
+  },
+  "homepage": "https://github.com/Toledo02/devops#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+  
+}
